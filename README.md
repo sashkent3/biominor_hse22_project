@@ -13,6 +13,9 @@ https://colab.research.google.com/drive/17bUoisEUFFsW-dAZwFTAynqyMlZ8aSJG?usp=sh
 ## Обнаружено 7383 кластера
 ![image](https://user-images.githubusercontent.com/33320473/173239491-c5d3568e-0e2e-46cf-9817-61e6cb7d9871.png)
 ## Кластеры
+## Множественное белковое выравнивание кластеров
+См. файлы cluster[0-8].faa.
+## Визуализация
 ![image](https://user-images.githubusercontent.com/33320473/173243510-aed2ed98-1e5d-4c84-a091-4476616d7d0f.png)
 ![image](https://user-images.githubusercontent.com/33320473/173243513-f6767133-6974-49f3-b295-a9e60b759cc0.png)
 ![image](https://user-images.githubusercontent.com/33320473/173243518-db94f932-8092-4dcc-98d5-437a8ac2c1fc.png)
