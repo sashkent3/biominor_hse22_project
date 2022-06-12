@@ -1,4 +1,7 @@
 # biominor_hse22_project
+## Ссылка на колаб
+https://colab.research.google.com/drive/17bUoisEUFFsW-dAZwFTAynqyMlZ8aSJG?usp=sharing
+## Сводная таблица
 |Название вида|Кол-во посл-тей|Общая длина посл-тей|Кол-во аннотированных генов|Доля аннотированных генов|Кол-во участков с zh-score >500|Общая длина участков с zh-score >500|
 |-|-|-|-|-|-|-|
 |Paenibacillus mucilaginosus|1|8819200|7263|84.41%|28691|285594|
