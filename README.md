@@ -13,18 +13,29 @@ https://colab.research.google.com/drive/17bUoisEUFFsW-dAZwFTAynqyMlZ8aSJG?usp=sh
 ## Обнаружено 7383 кластера
 ![image](https://user-images.githubusercontent.com/33320473/173239491-c5d3568e-0e2e-46cf-9817-61e6cb7d9871.png)
 ## Кластеры
+|   # Species | Функция                                              |   ZH-score 0 |   ZH-score 1 |   ZH-score 2 |   ZH-score 3 |   ZH-score 4 |
+|------------:|:-----------------------------------------------------|-------------:|-------------:|-------------:|-------------:|-------------:|
+|           5 | 3-phosphoserine/phosphohydroxythreonine transaminase |      883.576 |      966.862 |      908.395 |      904.32  |      904.32  |
+|           5 | phosphoglycerate kinase                              |      908.395 |     2752.45  |     2752.45  |      783.823 |      783.823 |
+|           5 | imidazole glycerol phosphate synthase subunit HisH   |     1515.73  |     3428.53  |     2943.46  |     5140.83  |     5140.83  |
+|           5 | hypothetical protein                                 |      941.286 |     8485.76  |      873.717 |      907.715 |      718.425 |
+|           5 | DNA helicase PcrA                                    |      883.576 |      883.576 |     1820.59  |      883.576 |     1038.83  |
+|           5 | formyltetrahydrofolate deformylase                   |      650.92  |    13714     |     8485.76  |    13714     |    13714     |
+|           5 | cob(I)yrinic acid a,c-diamide adenosyltransferase    |     1120.03  |      915.919 |     1232.46  |     1551.7   |      752.603 |
+|           5 | DEAD/DEAH box helicase                               |     2752.45  |    13714     |    13714     |      980.812 |     7349.25  |
+|           5 | DEAD/DEAH box helicase                               |    13714     |    13714     |    13714     |      980.812 |     7349.25  |
 ## Множественное белковое выравнивание кластеров
 См. файлы cluster[0-8].faa.
 ## Визуализация
-![image](https://user-images.githubusercontent.com/33320473/173243510-aed2ed98-1e5d-4c84-a091-4476616d7d0f.png)
-![image](https://user-images.githubusercontent.com/33320473/173243513-f6767133-6974-49f3-b295-a9e60b759cc0.png)
-![image](https://user-images.githubusercontent.com/33320473/173243518-db94f932-8092-4dcc-98d5-437a8ac2c1fc.png)
-![image](https://user-images.githubusercontent.com/33320473/173243520-e575f315-bbd6-4459-be18-99ee4668be5a.png)
-![image](https://user-images.githubusercontent.com/33320473/173243527-e0798250-c072-4a4c-b31a-d638aae342eb.png)
-![image](https://user-images.githubusercontent.com/33320473/173243532-96e280fa-b086-447b-98d3-d9c6b769575a.png)
-![image](https://user-images.githubusercontent.com/33320473/173243554-15655f4f-f6b6-4480-967f-ec477ff836a9.png)
-![image](https://user-images.githubusercontent.com/33320473/173243565-4dc1f794-bae4-4def-954d-5a7ed380a9a9.png)
-![image](https://user-images.githubusercontent.com/33320473/173243583-0a2a77e2-11a7-4a1a-ba70-5aa8cf379ae6.png)
+![image](https://user-images.githubusercontent.com/33320473/173373929-cad76d7d-05a2-4fa7-aad7-f7d1ce9b983f.png)
+![image](https://user-images.githubusercontent.com/33320473/173373955-f95d31e2-b76c-4bea-ac70-e9f8559a4af2.png)
+![image](https://user-images.githubusercontent.com/33320473/173373981-c3466170-3e41-40d4-8ec4-334bc23f28f0.png)
+![image](https://user-images.githubusercontent.com/33320473/173374000-a7d8c4a7-c4c9-498f-a668-373ee597ffc9.png)
+![image](https://user-images.githubusercontent.com/33320473/173374022-a5cf1a19-321d-42a9-b6f0-668b3fc6ddd5.png)
+![image](https://user-images.githubusercontent.com/33320473/173374041-65600324-29ec-4420-9b48-12fa9f379b09.png)
+![image](https://user-images.githubusercontent.com/33320473/173374065-139f1520-fc7c-4651-8697-6f7c882d8207.png)
+![image](https://user-images.githubusercontent.com/33320473/173374095-7c3f2d81-ccb4-4355-ab24-68fec8ab0876.png)
+![image](https://user-images.githubusercontent.com/33320473/173374109-99da4021-f6d0-4eba-84b0-1e180dfa40cb.png)
 ## Бонус
 ![image](https://user-images.githubusercontent.com/33320473/173362509-7194b7fe-ae03-4b6c-8026-5d09dfe798ee.png)
 ![image](https://user-images.githubusercontent.com/33320473/173362528-e46cad3e-1c1c-45ec-989d-83e220a78c1f.png)
